@@ -3,12 +3,14 @@
 <head>
  
 </head>
-
+<style>
+ </style>
 <body>
 <h1>Adam George</h1>
 
 <h2> My summary</h2>
-
+<img src="https://cdn.ultiworld.com/wordpress/wp-content/uploads/2016/10/cincinnati.jpg
+" width="139" height="150" style="margin: 0 10px 10px 0;float:left;" />
 <p> Presently a .Net student at Tech Elevator pursuing the skills needed to become a Jr. Full Stack Developer. Strengths include process improvement, relationship building, training/mentoring, collaboration and communication. Known as a dedicated and driven team member skilled in identifying opportunities that ensure the betterment of the organization, employees and customers. Previous experience in 2D and 3D design using Maya, Adobe Photoshop and Illustrator..</p>
 
 </body>
